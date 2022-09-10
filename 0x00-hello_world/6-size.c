@@ -1,4 +1,4 @@
-#include <stdio.j>
+#include <stdio.h>
 int main()
 	{
 	 printf("size of a char:%d\n", sizeof(char));
